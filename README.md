@@ -16,7 +16,17 @@ To navigate the portfolio, the user can click on any subheader in the top right 
 
 ## Credits
 
-N/A
+free to use images:
+https://www.vtherpatlas.org/wp2016/wp-content/uploads/T-carolina-G-Langloi.jpg
+
+https://c1.staticflickr.com/5/4069/4621026652_8c1c3fdf50_b.jpg
+
+https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e648bd8f-e67a-41e2-bc86-d9423ba948ad/
+
+https://southafricatoday.net/wp-content/uploads/2018/04/sloth-banner.jpg
+
+dbkpxz5-2c41394e-8223-4afd-ae79-3d1641d32e5a.png/v1/fill/w_1024,h_576,q_80,strp/synthwave_wallpaper_by_frozenskullvfx_dbkpxz5-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTc2IiwicGF0aCI6IlwvZlwvZTY0OGJkOGYtZTY3YS00MWUyLWJjODYtZDk0MjNiYTk0OGFkXC9kYmtweHo1LTJjNDEzOTRlLTgyMjMtNGFmZC1hZTc5LTNkMTY0MWQzMmU1YS5wbmciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.FJdsq1HeJVMWCXvfkC8FT6-DQLK0nLhiNjrlbfI6Nyo
+
 
 ## License
 
