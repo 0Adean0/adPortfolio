@@ -40,3 +40,35 @@ header nav ul li{
     margin-left: 25px;
     
 }
+a{
+    color:#ffffff;
+    text-decoration: underline;
+}
+b{
+    color: #ffffff;
+    text-decoration: underline;
+}
+p{
+    color:#ffffff;
+}
+.hero{
+    height:200px;
+    width:100%;
+    margin-bottom: 10px;
+    background-image: url("../images/synthwave_wallpaper_by_frozenskullvfx_dbkpxz5-fullview.jpg");
+    background-size: cover;
+    background-position: center;
+}
+.AboutMe{
+    display:flex;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    padding:15px ;
+    justify-content: left;
+    text-align: justify;
+}
+.my-content{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:left;
+}
