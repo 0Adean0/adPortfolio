@@ -1,252 +1,298 @@
-*{
+* {
     box-sizing: border-box;
-    padding:0;
+    padding: 0;
     margin: 0;
 }
-body{
+
+body {
     background-color: #30174dd7;
 }
 
-summary,section {
-    margin:0 10px;
+summary,
+section {
+    margin: 0 10px;
 
 }
 
-header{
+header {
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding: 20px;
-    font-family:'Courier New', Courier, monospace;
-    background-color:#30174dd7; 
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #30174dd7;
     color: #ffffff;
 }
+
 header h1 {
-    display:inline-block;
-    font-size:50px;
+    display: inline-block;
+    font-size: 50px;
 }
+
 header h1.Dean {
-    color:#ffffff;
+    color: #ffffff;
 }
-header nav{
+
+header nav {
     padding-top: 12px;
     margin-right: 16px;
     float: right;
-    font-family:'Courier New', Courier, monospace;
+    font-family: 'Courier New', Courier, monospace;
     font-size: 22px;
 }
-header nav ul li{
-    display:inline-block;
+
+header nav ul li {
+    display: inline-block;
     margin-left: 25px;
-    
+
 }
-a{
-    color:#ffffff;
-    text-decoration: underline;
-}
-b{
+
+a {
     color: #ffffff;
     text-decoration: underline;
 }
-p{
-    color:#ffffff;
+
+b {
+    color: #ffffff;
+    text-decoration: underline;
 }
-.hero{
-    height:200px;
-    width:100%;
+
+p {
+    color: #ffffff;
+}
+
+.hero {
+    height: 200px;
+    width: 100%;
     margin-bottom: 10px;
     background-image: url("../images/synthwave_wallpaper_by_frozenskullvfx_dbkpxz5-fullview.jpg");
     background-size: cover;
     background-position: center;
 }
 
-.AboutMe{
-    display:flex;
+.AboutMe {
+    display: flex;
     margin-bottom: 10px;
     margin-top: 10px;
-    padding:15px ;
+    padding: 15px;
     justify-content: left;
     text-align: justify;
 }
-.my-content{
+
+.my-content {
     display: flex;
     flex-wrap: wrap;
-    justify-content:left;
+    justify-content: left;
 }
-.Projects{
-    display: flex;
-    margin-bottom: 10px;
-    padding: 15px;
-    text-align: justify;
-}
-.ContactMe{
+
+.Projects {
     display: flex;
     margin-bottom: 10px;
     padding: 15px;
     text-align: justify;
 }
 
-   
-aside{
+.ContactMe {
+    display: flex;
+    margin-bottom: 10px;
+    padding: 15px;
+    text-align: justify;
+}
+
+
+aside {
     flex: 0 0 15%;
     text-align: left;
     color: #ffffff;
 }
 
-.notes{
+.notes {
     flex: 0 0 85%;
     flex-wrap: wrap;
     padding-right: 30%;
-    padding-top: 24px;;
+    padding-top: 24px;
+    ;
 }
 
-.image-cards{
-    flex:0 0 85%;
+.image-cards {
+    flex: 0 0 85%;
     flex-wrap: wrap;
     display: flex;
     padding-right: 400px;
 }
-.Projects nav{
+
+.Projects nav {
     flex: 1;
     flex-wrap: wrap;
     justify-content: center;
     display: flex;
 }
 
-    
-.Card{
+
+.Card {
     background-image: url("../images/Final\ first\ assignment\ 01.5.jpg");
-    background-size:cover;
-    border:4px solid #908fce;
-    height: 350px;
-    width:908px;
-    position:relative;
+    background-size: cover;
+    border: 4px solid #908fce;
+    height: 348px;
+    width: 900px;
+    position: relative;
     margin-bottom: 10px;
     margin-right: 2px;
 }
 
-.Card h3{
-    position:absolute;
-    bottom:15px;
-    left: 15px;
-    color: #ffffff;
-    background-color: #908fce;
-    
-}
-.Card2{
-    background-image: url("../images/Github.jpeg");
-    background-size:cover;
-    border:4px solid #908fce;
-    height: 170px;
-    width:450px;
-    position:relative;
-    margin-bottom: 10px;
-    margin-right: 2px;
-
-}
-
-.Card2 h3{
+.Card h3 {
     position: absolute;
-    bottom:15px;
+    bottom: 15px;
     left: 15px;
     color: #ffffff;
     background-color: #908fce;
-    
+
 }
-.Card3{
-    background-image: url("../images/sloth-banner.jpg");
-    background-size:cover;
-    border:4px solid #908fce;
+
+.Card2 {
+    background-image: url("../images/Github.jpeg");
+    background-size: cover;
+    border: 4px solid #908fce;
     height: 170px;
-    width:450px;
-    position:relative;
+    width: 450px;
+    position: relative;
+    margin-bottom: 10px;
+    margin-right: 2px;
+
+}
+
+.Card2 h3 {
+    position: absolute;
+    bottom: 15px;
+    left: 15px;
+    color: #ffffff;
+    background-color: #908fce;
+
+}
+
+.Card3 {
+    background-image: url("../images/sloth-banner.jpg");
+    background-size: cover;
+    border: 4px solid #908fce;
+    height: 170px;
+    width: 450px;
+    position: relative;
     margin-bottom: 10px;
     margin-left: 2px;
 }
 
-.Card3 h3{
+.Card3 h3 {
     position: absolute;
-    bottom:15px;
+    bottom: 15px;
     left: 15px;
     color: #ffffff;
     background-color: #908fce;
-    
+
 }
+
 .Card4 {
     background-image: url("../images/4621026652_8c1c3fdf50_b.jpg");
-    background-size:cover;
-    border:4px solid #908fce;
+    background-size: cover;
+    border: 4px solid #908fce;
     height: 170px;
-    width:450px;
-    position:relative; 
+    width: 450px;
+    position: relative;
     margin-bottom: 10px;
     margin-right: 2px;
 }
 
-.Card4 h3{
+.Card4 h3 {
     position: absolute;
-    bottom:15px;
+    bottom: 15px;
     left: 15px;
     color: #ffffff;
     background-color: #908fce;
-    
+
 }
-.Card5{
+
+.Card5 {
     background-image: url("../images/T-carolina-G-Langloi.jpg");
-    background-size:cover;
-    border:4px solid #908fce;
+    background-size: cover;
+    border: 4px solid #908fce;
     height: 170px;
-    width:450px;
-    position:relative;
+    width: 450px;
+    position: relative;
     margin-bottom: 10px;
     margin-left: 2px;
 
 }
 
-.Card5 h3{
+.Card5 h3 {
     position: absolute;
-    bottom:15px;
+    bottom: 15px;
     left: 15px;
     color: #ffffff;
     background-color: #908fce;
-    
+
 }
 
 .image-cards img {
     width: 100%;
+}
+
+section.Contact nav {
+    padding-top: 12px;
+    margin-right: 16px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 22px;
+}
+
+section.Contact nav ul li {
+    display: inline-flex;
+    flex: 0 0 15%;
+    flex-direction: center;
+    margin-left: 25px;
+}
+
+@media screen and (max-width: 992px) {
+
+    .Projects,
+    .AboutMe,
+    .ContactMe {
+        display: flex;
+        flex-wrap: wrap;
+        text-align: center;
     }
 
-    section.Contact nav{
-        padding-top: 12px;
-        margin-right: 16px;
-        font-family:'Courier New', Courier, monospace;
-        font-size: 22px;
+    aside {
+        flex: 0 0 100%;
+
     }
-    
-    section.Contact nav ul li{
-        display: inline-flex;
-        flex: 0 0 15%;
-        flex-direction: center;
-        margin-left: 25px;
+
+    h2 {
+
+        text-align: center;
     }
-    
-    @media screen and (max-width: 992px) {
-      .image-cards{
-        width: 100%;
-      }
-      .Card{
-        width: 100%;
-      }
-      .Card2{
-        width: 100%;
-      }
-    
-      .Card3{
-        width: 100%;
-      }
-    
-      .Card4{
-        width: 100%;
-      }
-    
-    } 
+
+    .image-cards {
+        flex: 0 0 100%;
+        padding: 0;
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .Card {
+        width: 400px;
+    }
+
+    .Card2 {
+        width: 400px;
+    }
+
+    .Card3 {
+        width: 400px;
+    }
+
+    .Card4 {
+        width: 400px;
+    }
+
+    .Card5 {
+        width: 400px;
+    }
+}
