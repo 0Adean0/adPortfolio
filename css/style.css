@@ -72,3 +72,146 @@ p{
     flex-wrap: wrap;
     justify-content:left;
 }
+.Projects{
+    display: flex;
+    margin-bottom: 10px;
+    padding: 15px;
+    text-align: justify;
+}
+.ContactMe{
+    display: flex;
+    margin-bottom: 10px;
+    padding: 15px;
+    text-align: justify;
+}
+
+   
+aside{
+    flex: 0 0 15%;
+    text-align: left;
+    color: #ffffff;
+}
+
+.notes{
+    flex: 0 0 85%;
+    flex-wrap: wrap;
+    padding-right: 30%;
+    padding-top: 24px;;
+}
+
+.image-cards{
+    flex:0 0 85%;
+    flex-wrap: wrap;
+    display: flex;
+    padding-right: 400px;
+}
+.Projects nav{
+    flex: 1;
+    flex-wrap: wrap;
+    justify-content: center;
+    display: flex;
+}
+
+    
+.Card{
+    background-image: url("../images/Final\ first\ assignment\ 01.5.jpg");
+    background-size:cover;
+    border:4px solid #908fce;
+    height: 350px;
+    width:908px;
+    position:relative;
+    margin-bottom: 10px;
+    margin-right: 2px;
+}
+
+.Card h3{
+    position:absolute;
+    bottom:15px;
+    left: 15px;
+    color: #ffffff;
+    background-color: #908fce;
+    
+}
+.Card2{
+    background-image: url("../images/Github.jpeg");
+    background-size:cover;
+    border:4px solid #908fce;
+    height: 170px;
+    width:450px;
+    position:relative;
+    margin-bottom: 10px;
+    margin-right: 2px;
+
+}
+
+.Card2 h3{
+    position: absolute;
+    bottom:15px;
+    left: 15px;
+    color: #ffffff;
+    background-color: #908fce;
+    
+}
+.Card3{
+    background-image: url("../images/sloth-banner.jpg");
+    background-size:cover;
+    border:4px solid #908fce;
+    height: 170px;
+    width:450px;
+    position:relative;
+    margin-bottom: 10px;
+    margin-left: 2px;
+}
+
+.Card3 h3{
+    position: absolute;
+    bottom:15px;
+    left: 15px;
+    color: #ffffff;
+    background-color: #908fce;
+    
+}
+.Card4 {
+    background-image: url("../images/4621026652_8c1c3fdf50_b.jpg");
+    background-size:cover;
+    border:4px solid #908fce;
+    height: 170px;
+    width:450px;
+    position:relative; 
+    margin-bottom: 10px;
+    margin-right: 2px;
+}
+
+.Card4 h3{
+    position: absolute;
+    bottom:15px;
+    left: 15px;
+    color: #ffffff;
+    background-color: #908fce;
+    
+}
+.Card5{
+    background-image: url("../images/T-carolina-G-Langloi.jpg");
+    background-size:cover;
+    border:4px solid #908fce;
+    height: 170px;
+    width:450px;
+    position:relative;
+    margin-bottom: 10px;
+    margin-left: 2px;
+
+}
+
+.Card5 h3{
+    position: absolute;
+    bottom:15px;
+    left: 15px;
+    color: #ffffff;
+    background-color: #908fce;
+    
+}
+
+.image-cards img {
+    width: 100%;
+    }
+
