@@ -215,3 +215,37 @@ aside{
     width: 100%;
     }
 
+    section.Contact nav{
+        padding-top: 12px;
+        margin-right: 16px;
+        font-family:'Courier New', Courier, monospace;
+        font-size: 22px;
+    }
+    
+    section.Contact nav ul li{
+        display: inline-flex;
+        flex: 0 0 15%;
+        flex-direction: center;
+        margin-left: 25px;
+    }
+    
+    @media screen and (max-width: 992px) {
+      .image-cards{
+        width: 100%;
+      }
+      .Card{
+        width: 100%;
+      }
+      .Card2{
+        width: 100%;
+      }
+    
+      .Card3{
+        width: 100%;
+      }
+    
+      .Card4{
+        width: 100%;
+      }
+    
+    } 
